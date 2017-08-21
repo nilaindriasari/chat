@@ -1,0 +1,32 @@
+body{
+  margin:0;
+  font-family: 'Arial', sans-serif;
+  background: #E8DABD;
+  font-size: 16px;
+  color: wheat;
+}
+
+h1{
+  color: black;
+}
+
+a{
+  color:red;
+}
+
+a:hover {
+  color:orange;
+}
+
+header,
+.container,
+footer {
+  width: 80%;
+  margin:0 auto;
+  max-width: 1080px;
+}
+
+.wrapper{
+  padding: 1em 0;
+  background: #644810;
+}
